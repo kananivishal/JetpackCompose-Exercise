@@ -16,4 +16,7 @@
     <string name="column_composable">Column composable</string>
     <string name="desc_four">A layout composable that places its children in a vertical sequence.</string>
     <string name="title_activity_business_card">BusinessCardActivity</string>
+    <string name="title_activity_birthday_card">BirthdayCardActivity</string>
+    <string name="happy_birthday_jon">Happy Birthday Jon!</string>
+    <string name="vishal">Vishal</string>
 </resources>
